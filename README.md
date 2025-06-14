@@ -1,1 +1,1 @@
-# PlantaTalk-device-test
+# PlantaTalk-device-simulator
